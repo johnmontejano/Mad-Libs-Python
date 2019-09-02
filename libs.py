@@ -1,4 +1,5 @@
 word_list = list()
+
 verb = input("Type in a verb: ")
 word_list.append(verb)
 
